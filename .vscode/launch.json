@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/cpuLiner/halfline-simple.out",
+            "program": "${workspaceFolder}/cpuLiner/halfline-tickCount.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
