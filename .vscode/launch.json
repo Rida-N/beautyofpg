@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/cpuLiner/sin-line.out",
+            "program": "${workspaceFolder}/ChineseChess/chinese-chess.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
